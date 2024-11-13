@@ -12,10 +12,6 @@ package com.mycompany.esempiogit1;
 public class EsempioGit1 {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
-        System.out.println("Ciao Mondo!");//parte aggiunta
-        System.out.println("Ciao");
-        
-        System.out.println("Linea 3");    
+         int numero=10;   
     }
 }
