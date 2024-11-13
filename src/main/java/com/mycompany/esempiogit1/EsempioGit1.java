@@ -16,5 +16,6 @@ public class EsempioGit1 {
         System.out.println("Ciao Mondo!");//parte aggiunta
         System.out.println("Ciao");
         
+        System.out.println("Linea 3");    
     }
 }
